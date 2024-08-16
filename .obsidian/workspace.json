@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "09edea726fb93a17",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fa593b388d63406",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcc299a67bb1386f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "przeczytane.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3171e2e4229b1bb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jessica foks.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c4aae1d3a0c9141",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aa651592274633b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fb6380c1230e191",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "0076ab49168e59bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f7b51d97d319d2c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0067d7e00ac2b97b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d39c67dd1b19aae5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34fb2f769b6ce75f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "przeczytane.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2df3ed700e91c38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "przeczytane.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8fd946aa6b990c65",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e3699ec0df7b7f16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "przeczytane.md"
+              }
+            }
+          },
+          {
+            "id": "04308bdc7e725134",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bcc299a67bb1386f",
+  "lastOpenFiles": [
+    "przeczytane/black lies.md",
+    "jessica foks.md",
+    "przeczytane.md",
+    "przeczytane/smak gorzkiej czekolady.md",
+    "przeczytane/it ends with us.md",
+    "przeczytane/identical.md",
+    "przeczytane/i wanna fall dark side.md",
+    "przeczytane/the science of temptation.md",
+    "przeczytane/flawless opowiedz mi nasza historie.md",
+    "przeczytane/aristotle and dante discover the secrets of the universe.md",
+    "przeczytane/corrupt.md",
+    "przeczytane/normalni ludzie.md",
+    "przeczytane/red white and royal blue.md",
+    "przeczytane/krew i popiół.md",
+    "przeczytane/it start with us.md",
+    "przeczytane/venom 2.md",
+    "przeczytane/hidden hearts.md",
+    "przeczytane/ptaszynka 2.md",
+    "przeczytane/unique.md",
+    "szablony/ksiazka.md",
+    "przeczytane/clone.md",
+    "przeczytane/gołąb i wąż.md",
+    "przeczytane/satan's affair.md",
+    "przeczytane/bad friends.md",
+    "przeczytane/skarb rodzina monet.md",
+    "stwórz łącze.md",
+    "szablony",
+    "przeczytane",
+    "sidebar.png",
+    "tbr",
+    "ribbon_1f380.png"
+  ]
+}

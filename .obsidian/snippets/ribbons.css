@@ -1,0 +1,9 @@
+.mod-sidedock > div > .workspace-tab-container > .workspace-leaf {
+    background-image: url("https://i.imgur.com/lOcni9t.png") !important;
+    background-blend-mode: saturation(-200);
+    
+}
+
+.mod-right-split {
+    background-color: #f8c6eb;
+}

@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Minimal",
+  "accentColor": "#ffffff",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "ribbons"
+  ],
+  "nativeMenus": true
+}

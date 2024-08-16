@@ -1,0 +1,18 @@
+{
+  "minimal-style@@base@@light": "#F7B4E6",
+  "minimal-style@@bg1@@light": "#F7B4E6",
+  "minimal-style@@bg2@@light": "#F8C3EB",
+  "minimal-style@@bg3@@light": "#F4AFE3",
+  "minimal-style@@ui1@@light": "#E28DCD",
+  "minimal-style@@ui2@@light": "#F299DC",
+  "minimal-style@@ui3@@light": "#F299DC",
+  "minimal-style@@ax1@@light": "#FFFFFF",
+  "minimal-style@@ax2@@light": "#EEEEEE",
+  "minimal-style@@ax3@@light": "#EEEEEE",
+  "minimal-style@@sp1@@light": "#000000",
+  "minimal-style@@tx1@@light": "#000000",
+  "minimal-style@@hl2@@light": "#FFFFFF",
+  "minimal-style@@hl1@@light": "#FFFFFF54",
+  "minimal-style@@hide-help": false,
+  "minimal-style@@hl2@@dark": "#FFFFFF75"
+}
